@@ -1,0 +1,12 @@
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# eclipse project file
+.settings/
+.classpath
+.factorypath
+.springBeans
+.travis
+.project
+.apt_generated/
+/bin/
